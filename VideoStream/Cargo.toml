@@ -1,0 +1,12 @@
+[package]
+name = "robot_controller"
+version = "0.1.0"
+edition = "2021"
+
+
+[dependencies]
+gstreamer = "0.17"
+gstreamer-video = "0.17"
+gtk = "0.9"
+glib = "0.10"
+reqwest = "0.11"
