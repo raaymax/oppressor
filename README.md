@@ -38,7 +38,7 @@ The Oppressor project is all about adding a touch of whimsy to the world of robo
 
 ## Video stream
 
-(https://github.com/rzeldent/esp32cam-rtsp/tree/feature/seeed_xiao_esp32s3)[https://github.com/rzeldent/esp32cam-rtsp/tree/feature/seeed_xiao_esp32s3]
+[https://github.com/rzeldent/esp32cam-rtsp/tree/feature/seeed_xiao_esp32s3](https://github.com/rzeldent/esp32cam-rtsp/tree/feature/seeed_xiao_esp32s3)
 
 ## Usage
 
